@@ -1,0 +1,6 @@
+let todoList = ["Exercise", "Check emails", "Work on project", "Attend meeting", "Read a book"];
+
+todoList.unshift("Meditate");
+todoList.pop();
+
+console.log(todoList);

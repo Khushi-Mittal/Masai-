@@ -1,0 +1,3 @@
+let temperatures = [22, 24, 21, 23, 25, 26, 20];
+temperatures[3] += 2;
+console.log(temperatures);
